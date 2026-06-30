@@ -2,7 +2,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 Graduated with a **Bachelor of Computer Science (Honours)** in Computer Science.
+🎓 Graduated with a **Bachelor of  Science (Honours)** in Computer Science.
 
 ☁️ Currently pursuing a **Diploma in Cloud Computing**.
 
