@@ -1,34 +1,61 @@
-# 👋 Hi, I'am Riya Kaushik
-## About Me
-✨ Graduated with a Bechelor of Computer Science (Honours) in Computer Science.
+# 👋 Hi, I'm Riya Kaushik
 
+## 👩‍💻 About Me
 
+🎓 Graduated with a **Bachelor of Computer Science (Honours)** in Computer Science.
 
-**riyakaushik221-creator/riyakaushik221-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☁️ Currently pursuing a **Diploma in Cloud Computing**.
 
-Here are some ideas to get you started:
+💻 Passionate about **DevOps, Cloud Computing, and Automation**.
 
-##- 🔭 I’m currently working on:
-3#- Devops Practice Projects
-##- Cloud Computing Projects
-#- 🌱 I’m currently learning:
-##- Linux
-##- Python
-##- Git & GitHub
-##- AWS
-##- Azure
-##- Docker
-##- Kubernetes
-#- 👯 I’m looking to collaborate on:
-##- Open Source Projects
-##- Devops & Cloud Projects
-#- 💬 Ask me about:
-##- Git & GitHub
-##- Linux Basics
-##- AWS Basics
-##- Devops Learning 
-#- 📫 How to reach me:
-##- Email: riyakaushik221@gmail.com
-#- ⚡ Fun fact:
-##I love leraning new technologies and building real-world projects.
+---
+
+## 🚀 I'm Currently Working On
+
+- DevOps Practice Projects
+- Cloud Computing Projects
+
+---
+
+## 🌱 I'm Currently Learning
+
+- Linux
+- Python
+- Git & GitHub
+- AWS
+- Azure
+- Docker
+- Kubernetes
+- Jenkins
+- Terraform
+
+---
+
+## 🤝 I'm Looking to Collaborate On
+
+- Open Source Projects
+- DevOps & Cloud Projects
+
+---
+
+## 💬 Ask Me About
+
+- Git & GitHub
+- Linux Basics
+- AWS Basics
+- DevOps Learning
+
+---
+
+## 📫 How to Reach Me
+
+📧 Email: riyakaushik221@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+I love learning new technologies and building real-world projects.
+
+⭐ Thanks for visiting my GitHub profile!
 
