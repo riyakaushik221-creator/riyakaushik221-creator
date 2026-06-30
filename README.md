@@ -8,28 +8,27 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on:
-- Devops Practice Projects
-- Cloud Computing Projects
-- 🌱 I’m currently learning:
-- Linux
-- Python
-- Git & GitHub
-- AWS
-- Azure
-- Docker
-- Kubernetes
-- 👯 I’m looking to collaborate on:
-- Open Source Projects
-- Devops & Cloud Projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about:
-- Git & GitHub
-- Linux Basics
-- AWS Basics
-- Devops Learning 
-- 📫 How to reach me:
-- Email: riyakaushik221@gmail.com
-- ⚡ Fun fact:
-I love leraning new technologies and building real-world projects.
+##- 🔭 I’m currently working on:
+3#- Devops Practice Projects
+##- Cloud Computing Projects
+#- 🌱 I’m currently learning:
+##- Linux
+##- Python
+##- Git & GitHub
+##- AWS
+##- Azure
+##- Docker
+##- Kubernetes
+#- 👯 I’m looking to collaborate on:
+##- Open Source Projects
+##- Devops & Cloud Projects
+#- 💬 Ask me about:
+##- Git & GitHub
+##- Linux Basics
+##- AWS Basics
+##- Devops Learning 
+#- 📫 How to reach me:
+##- Email: riyakaushik221@gmail.com
+#- ⚡ Fun fact:
+##I love leraning new technologies and building real-world projects.
 -->
