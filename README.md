@@ -1,6 +1,6 @@
 # 👋 Hi, I'am Riya Kaushik
 ## About Me
-✨Currently I'am completed my Degree Bechlor Graduated with a Bechelor of Computer Science (Honours) in Computer Science.
+✨ Graduated with a Bechelor of Computer Science (Honours) in Computer Science.
 
 
 <!--
@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 ##- Email: riyakaushik221@gmail.com
 #- ⚡ Fun fact:
 ##I love leraning new technologies and building real-world projects.
--->
+
