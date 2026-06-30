@@ -3,7 +3,7 @@
 ✨ Graduated with a Bechelor of Computer Science (Honours) in Computer Science.
 
 
-<!--
+
 **riyakaushik221-creator/riyakaushik221-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
